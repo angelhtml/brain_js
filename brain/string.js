@@ -3,7 +3,7 @@ const brain = require('brain.js');
 const trainingData = [
     "weeknd is a best singer i saw ever",
     "i ask you what`s best abel song? you say ...",
-    "who`s doja cat i saw her with abel"
+    "javascript is awesome"
 ]
 
 const network = new brain.recurrent.LSTM();
