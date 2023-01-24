@@ -32,4 +32,3 @@ for(var i = 0; i<100; i++){
     }else if (output<0.9){
         x = "zero"
     }
-
