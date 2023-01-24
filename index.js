@@ -9,6 +9,7 @@ const config = {
 
 // create a simple feed forward neural network with backpropagation
 const net = new brain.NeuralNetwork(config);
+
 /*
 net.train([
     {input: [0, 0], output: [0]},
